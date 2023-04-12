@@ -1,0 +1,6 @@
+id_4214,PB7526,Sedan,Wanda,yes,Sector 19,Sector 10,5
+id_4214,PB7526,Sedan,Wanda,yes,Sector 6,Sector 15,1
+id_4214,PB7526,Sedan,Wanda,yes,Sector 4,Sector 34,4
+id_4214,PB7526,Sedan,Wanda,yes,Sector 21,Sector 34,3
+id_4214,PB7526,Sedan,Wanda,yes,Sector 26,Sector 36,3
+id_4214,PB7526,Sedan,Wanda,yes,Sector 26,Sector 36,3

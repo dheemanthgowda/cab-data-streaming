@@ -28,4 +28,5 @@ public class Cab implements Serializable {
     private String pickupLocation;
     private String destination;
     private Integer passengerCount;
+    private long timeStamp;
 }

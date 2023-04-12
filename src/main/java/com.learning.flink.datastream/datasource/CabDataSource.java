@@ -32,7 +32,7 @@ public class CabDataSource extends RichSourceFunction<Cab> {
                     eachLine[4],
                     eachLine[5],
                     eachLine[6],
-                    eachLine[7].equals("'null'") ? null : Integer.valueOf(eachLine[7]));
+                    eachLine[7].equals("'null'") ? null : Integer.valueOf(eachLine[7]), System.currentTimeMillis());
             sourceContext.collect(input);
 
         }
